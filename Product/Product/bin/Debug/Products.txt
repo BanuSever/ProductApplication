@@ -1,0 +1,2 @@
+Bilgisyr, 12000, 4
+Tablet, 5500, 2

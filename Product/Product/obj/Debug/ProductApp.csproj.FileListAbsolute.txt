@@ -1,0 +1,7 @@
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\bin\Debug\Product.exe.config
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\bin\Debug\Product.exe
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\bin\Debug\Product.pdb
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\obj\Debug\Product.exe
+C:\Users\banus\OneDrive\Masaüstü\Product\Product\obj\Debug\Product.pdb
